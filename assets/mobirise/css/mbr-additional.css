@@ -3547,6 +3547,60 @@ body {
     border-left: .30em solid transparent;
   }
 }
+.cid-ravpzbwXQm {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #020413;
+}
+.cid-ravpzbwXQm .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-ravpzbwXQm .section-text {
+  padding: 2rem 0;
+  color: #efefef;
+}
+.cid-ravpzbwXQm .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-ravpzbwXQm .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-ravu7q2kEf {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #cccccc;
+}
+.cid-ravu7q2kEf .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-ravu7q2kEf .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-ravu7q2kEf .mbr-figure img {
+    width: 100% !important;
+  }
+}
+.cid-ravu7q2kEf H1 {
+  color: #020413;
+  text-align: center;
+}
+.cid-ravu7q2kEf .mbr-text,
+.cid-ravu7q2kEf .mbr-section-btn {
+  text-align: left;
+  color: #0e133b;
+}
 .cid-ravbW5bTQ6 {
   padding-top: 0px;
   padding-bottom: 45px;
@@ -3590,107 +3644,6 @@ body {
 }
 .cid-ravbW7xg6a DIV {
   color: #020413;
-}
-.cid-ravbW9Qu83 {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-image: url("../../../assets/images/wallpaper2you-472646-2000x3556.jpg");
-}
-.cid-ravbW9Qu83 .mbr-section-subtitle {
-  color: #efefef;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-ravbW9Qu83 .timeline-text-content {
-  padding: 2rem 2.5rem;
-  background: #cccccc;
-  margin-right: 2rem;
-  transition: all .4s;
-}
-.cid-ravbW9Qu83 .timeline-text-content p {
-  margin-bottom: 0;
-}
-.cid-ravbW9Qu83 .timeline-element {
-  margin-bottom: 50px;
-  position: relative;
-  word-wrap: break-word;
-  word-break: break-word;
-  display: -webkit-flex;
-  flex-direction: row;
-  -webkit-flex-direction: row;
-}
-.cid-ravbW9Qu83 .timeline-element:hover .timeline-text-content {
-  box-shadow: 0 7px 20px 0px rgba(0, 0, 0, 0.08);
-  transition: all .4s;
-}
-.cid-ravbW9Qu83 .reverse {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-.cid-ravbW9Qu83 .reverse .timeline-text-content {
-  margin-left: 2rem;
-  margin-right: 0;
-}
-.cid-ravbW9Qu83 .iconsBackground {
-  position: absolute;
-  left: 50%;
-  width: 60px;
-  height: 60px;
-  line-height: 30px;
-  text-align: center;
-  border-radius: 50%;
-  display: inline-block;
-  background-color: #cccccc;
-  top: 20px;
-  margin-left: -30px;
-}
-.cid-ravbW9Qu83 .mbr-iconfont {
-  position: absolute;
-  text-align: center;
-  font-size: 35px;
-  display: inline-block;
-  z-index: 3;
-  top: 13px;
-  left: 13px;
-}
-.cid-ravbW9Qu83 .separline:before {
-  top: 20px;
-  bottom: 0;
-  position: absolute;
-  content: "";
-  width: 2px;
-  background-color: #cccccc;
-  left: calc(50% - 1px);
-  height: calc(100% + 4rem);
-}
-@media (max-width: 768px) {
-  .cid-ravbW9Qu83 .iconsBackground {
-    left: 1.5rem;
-  }
-  .cid-ravbW9Qu83 .separline:before {
-    left: calc(1.5rem - 1px);
-  }
-  .cid-ravbW9Qu83 .timeline-text-content {
-    margin-left: 3rem !important;
-    margin-right: 0 !important;
-  }
-  .cid-ravbW9Qu83 .reverse .timeline-text-content {
-    margin-right: 0 !important;
-  }
-}
-.cid-ravbW9Qu83 .mbr-section-title B {
-  color: #9babda;
-}
-.cid-ravbW9Qu83 .mbr-timeline-title {
-  text-align: center;
-  color: #030a49;
-}
-.cid-ravbW9Qu83 .mbr-timeline-text {
-  text-align: center;
-  color: #02051e;
-}
-.cid-ravbW9Qu83 .mbr-timeline-text B {
-  color: #2230af;
 }
 .cid-ravbWdXatI {
   padding-top: 90px;
@@ -4248,4 +4201,25 @@ body {
 }
 .cid-ravbWqfvyf .links {
   color: #073b4c;
+}
+.cid-ravtd4VfD4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background3.jpg");
+}
+.cid-ravtd4VfD4 .mbr-figure {
+  margin: 0 auto;
+  width: 100%;
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-ravtd4VfD4 .mbr-figure img {
+  height: 100%;
+  margin: 0 auto;
+}
+@media (max-width: 991px) {
+  .cid-ravtd4VfD4 .mbr-figure img {
+    width: 100% !important;
+  }
 }

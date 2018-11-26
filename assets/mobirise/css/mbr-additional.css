@@ -1,4 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Grand+Hotel:400);
 @import url(https://fonts.googleapis.com/css?family=Jura:300,400,500,600,700);
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:200,200i,300,300i,400,400i,600,600i,700,700i,900);
 @import url(https://fonts.googleapis.com/css?family=Signika:300,400,600,700);
@@ -23,18 +22,18 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Grand Hotel', handwriting;
-  font-size: 2.4rem;
+  font-family: 'Jura', sans-serif;
+  font-size: 2.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 3.84rem;
+  font-size: 3.52rem;
 }
 .display-2 {
-  font-family: 'Grand Hotel', handwriting;
-  font-size: 1.4rem;
+  font-family: 'Jura', sans-serif;
+  font-size: 1.6rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 2.24rem;
+  font-size: 2.56rem;
 }
 .display-4 {
   font-family: 'Signika', sans-serif;
@@ -52,10 +51,10 @@ body {
 }
 .display-7 {
   font-family: 'Titillium Web', sans-serif;
-  font-size: 1rem;
+  font-size: 1.4rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.24rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -64,14 +63,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 1.92rem;
-    font-size: calc( 1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.49rem + (2.4 - 1.49) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.76rem;
+    font-size: calc( 1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.42rem + (2.2 - 1.42) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.12rem;
-    font-size: calc( 1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.14rem + (1.4 - 1.14) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.96rem;
@@ -662,13 +661,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Titillium Web', sans-serif;
-  font-size: 1rem;
+  font-size: 1.4rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 2.24rem;
 }
 .form-control,
 .form-control:focus {
@@ -1399,7 +1398,7 @@ body {
   color: #efefef;
 }
 .cid-rapWrAWd8b .mbr-section-subtitle B {
-  color: #efefef;
+  color: #9babda;
 }
 .cid-r7Wm1WO25Y {
   padding-top: 30px;
@@ -1489,7 +1488,7 @@ body {
   }
 }
 .cid-r7Wm1WO25Y .mbr-section-title B {
-  color: #efefef;
+  color: #9babda;
 }
 .cid-r7Wm1WO25Y .mbr-timeline-title {
   text-align: center;
@@ -1500,27 +1499,54 @@ body {
   color: #02051e;
 }
 .cid-r7Wm1WO25Y .mbr-timeline-text B {
-  color: #02051e;
+  color: #2230af;
 }
 .cid-rasOqLLKo3 {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/uaesa-2-2000x1259.jpg");
 }
+.cid-rasOqLLKo3 H2 {
+  color: #9babda;
+}
+.cid-rasOqLLKo3 I {
+  color: #b1a374;
+}
+.cid-rasOqLLKo3 H3 {
+  text-align: center;
+}
 .cid-rasORWabbE {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/engar-center-2000x1620.jpg");
+}
+.cid-rasORWabbE I {
+  color: #b1a374;
+}
+.cid-rasORWabbE H3 {
+  text-align: center;
 }
 .cid-rasPM1O8Tj {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/iconet-logo-1-2000x1036.jpg");
 }
+.cid-rasPM1O8Tj I {
+  color: #b1a374;
+}
+.cid-rasPM1O8Tj H3 {
+  text-align: center;
+}
 .cid-rasPNv4uPD {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/ku-final-2000x946.jpg");
+}
+.cid-rasPNv4uPD B {
+  color: #b1a374;
+}
+.cid-rasPNv4uPD H3 {
+  text-align: center;
 }
 .cid-qtk6cxz8em {
   padding-top: 60px;

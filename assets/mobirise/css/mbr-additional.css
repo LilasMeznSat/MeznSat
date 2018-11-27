@@ -1377,13 +1377,37 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-raBKFN00tj {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #020413;
+}
+.cid-raBKFN00tj .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-raBKFN00tj .section-text {
+  padding: 2rem 0;
+  color: #8999c7;
+}
+.cid-raBKFN00tj .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-raBKFN00tj .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rapWrAWd8b {
   padding-top: 0px;
-  padding-bottom: 45px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/1-1252x689.jpg");
 }
 .cid-rapWrAWd8b .mbr-section-subtitle {
-  color: #efefef;
+  color: #b1a374;
   text-align: left;
 }
 .cid-rapWrAWd8b .btn {
@@ -1398,6 +1422,12 @@ body {
 }
 .cid-rapWrAWd8b .mbr-section-subtitle B {
   color: #9babda;
+}
+.cid-rapWrAWd8b SPAN {
+  color: #efefef;
+}
+.cid-rapWrAWd8b .mbr-section-subtitle I {
+  color: #b1a374;
 }
 .cid-rav114orcy {
   padding-top: 15px;
@@ -1416,10 +1446,11 @@ body {
 }
 .cid-rav114orcy .mbr-text,
 .cid-rav114orcy .mbr-section-btn {
-  color: #020413;
+  color: #141e64;
 }
 .cid-rav114orcy DIV {
-  color: #020413;
+  color: #010521;
+  text-align: center;
 }
 .cid-r7Wm1WO25Y {
   padding-top: 30px;
@@ -1509,7 +1540,7 @@ body {
   }
 }
 .cid-r7Wm1WO25Y .mbr-section-title B {
-  color: #9babda;
+  color: #b1a374;
 }
 .cid-r7Wm1WO25Y .mbr-timeline-title {
   text-align: center;
@@ -1520,7 +1551,10 @@ body {
   color: #02051e;
 }
 .cid-r7Wm1WO25Y .mbr-timeline-text B {
-  color: #2230af;
+  color: #6c5814;
+}
+.cid-r7Wm1WO25Y .mbr-section-subtitle B {
+  color: #cccccc;
 }
 .cid-rasOqLLKo3 {
   padding-top: 90px;
@@ -1528,7 +1562,8 @@ body {
   background-image: url("../../../assets/images/uaesa-2-2000x1259.jpg");
 }
 .cid-rasOqLLKo3 H2 {
-  color: #9babda;
+  color: #cccccc;
+  text-align: center;
 }
 .cid-rasOqLLKo3 I {
   color: #b1a374;
@@ -1625,7 +1660,7 @@ body {
   -webkit-flex-direction: column-reverse;
 }
 .cid-rat6N34GLe .mbr-section-title {
-  color: #9babda;
+  color: #cccccc;
 }
 .cid-rat6N34GLe .card-title {
   color: #efefef;

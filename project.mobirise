@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MeznSat-Final",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 214,
     "versionPublish": "4.8.4",
@@ -4868,7 +4868,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/pdr-may-17-2018-3-716x5370.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pdr-may-17-2018-3-716x5371.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/pdr-may-17-2018-3-716x537-716x537.jpg",
                 "alt": "",
                 "title": "",

@@ -1377,6 +1377,14 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+.cid-raGpSpPQDA {
+  padding-top: 90px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/mbr-1-1920x960.jpg");
+}
+.cid-raGpSpPQDA .mbr-section-subtitle {
+  color: #efefef;
+}
 .cid-raBKFN00tj {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1540,7 +1548,7 @@ body {
   }
 }
 .cid-r7Wm1WO25Y .mbr-section-title B {
-  color: #b1a374;
+  color: #e4d295;
 }
 .cid-r7Wm1WO25Y .mbr-timeline-title {
   text-align: center;
@@ -1551,7 +1559,7 @@ body {
   color: #02051e;
 }
 .cid-r7Wm1WO25Y .mbr-timeline-text B {
-  color: #6c5814;
+  color: #675b30;
 }
 .cid-r7Wm1WO25Y .mbr-section-subtitle B {
   color: #cccccc;
@@ -2168,7 +2176,7 @@ body {
 .cid-raDTUMyCRp {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/hd-space-wallpaper-for-background-18-1920x1080.jpg");
+  background-image: url("../../../assets/images/mbr-1920x1277.jpg");
 }
 .cid-raDTUMyCRp .socicon-bg-facebook {
   background: #3e5b98;
@@ -2212,6 +2220,9 @@ body {
 }
 .cid-raDTUMyCRp .mbr-section-title {
   color: #b1a374;
+}
+.cid-raDTUMyCRp .mbr-section-title B {
+  color: #cccccc;
 }
 .cid-qrZVpLekdK .navbar {
   padding: .5rem 0;
